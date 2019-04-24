@@ -9,4 +9,10 @@
 * [Data Structures](#data-structures)
 * [Python](#python)
 
-Solutions are coded using Java 8, Python 3 or JS
+Solutions are coded using Java, Python or JS
+
+### Python
+
+|          Subdomain          |                                                        Challenge                                                         | Score  | Difficulty |                                                        Solution                                                        |
+|:---------------------------:|:------------------------------------------------------------------------------------------------------------------------:|:------:|:----------:|:----------------------------------------------------------------------------------------------------------------------:|
+|         Introduction        | [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world)                                                     |    5   |    Easy    | [Say_Hello_World_With_Python.py](Python/Introduction/Say_Hello_World_With_Python.py)
